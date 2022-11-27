@@ -1,4 +1,4 @@
-# BASH ENCRYPTION 
+# MURL
 
 <h3 align="left">INSTALL :</h3>
 
